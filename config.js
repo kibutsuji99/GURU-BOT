@@ -52,7 +52,7 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = 'MUZAN'
 global.premium = 'true'
-global.packname = '☔ﾟᏦí多𐌵ť𝓈𐌵𝔧í☔⁠☆ﾟ⁠.⁠*⁠･⁠｡ﾟ' 
+global.packname = 'kibutsuji' 
 global.author = 'Muzan' 
 global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
